@@ -1,0 +1,8 @@
+const PageContent = () => {
+
+	return (
+		<>
+		</>
+	)
+
+}
