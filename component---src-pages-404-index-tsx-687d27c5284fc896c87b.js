@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkniklasbuhl_github_io_develop=self.webpackChunkniklasbuhl_github_io_develop||[]).push([[911],{6625:function(e,t,n){n.r(t),n.d(t,{Head:function(){return o}});var l=n(7294),u=n(6901);t.default=e=>l.createElement(u.Z,{pageProps:e},l.createElement("span",null,"This is not the page you are looking for..."));const o=()=>l.createElement("title",null,"Not found")}}]);
+//# sourceMappingURL=component---src-pages-404-index-tsx-687d27c5284fc896c87b.js.map

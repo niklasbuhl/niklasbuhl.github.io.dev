@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkniklasbuhl_github_io_develop=self.webpackChunkniklasbuhl_github_io_develop||[]).push([[726],{4377:function(e,l,t){t.r(l),t.d(l,{Head:function(){return a}});var n=t(7294),u=t(6901);l.default=e=>n.createElement(u.Z,{pageProps:e},n.createElement("main",null,n.createElement("h1",null,"Articles")));const a=()=>n.createElement("title",null,"Articles")}}]);
+//# sourceMappingURL=component---src-pages-articles-index-tsx-3ead2af8b22fb46658ee.js.map
